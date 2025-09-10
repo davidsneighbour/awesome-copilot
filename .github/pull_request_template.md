@@ -30,4 +30,4 @@
 
 ---
 
-By submitting this pull request, I confirm that my contribution abides by the [Code of Conduct](../CODE_OF_CONDUCT.md) and will be licensed under the MIT License.
+By submitting this pull request, I confirm that my contribution abides by the [Code of Conduct](https://github.com/github/awesome-copilot/blob/main/CODE_OF_CONDUCT.md) and will be licensed under the MIT License.
